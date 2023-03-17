@@ -55,7 +55,7 @@
     "@emotion/styled": "^11.10.4",
     "chakra-react-select": "^4.2.2",
     "chakra-ui-steps": "^1.7.4",
-    "framer-motion": "^7.3.2",
+    "framer-motion": "^6.5.1",
     "js-levenshtein": "^1.1.6",
     "lodash": "^4.17.21",
     "react-data-grid": "7.0.0-beta.16",
